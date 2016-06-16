@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TestGithubIntegr",
+  "ProjectGuid": "3a2d5bbe-361f-44ae-a654-6b59961f23d7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TestGithubIntegr",
+  "DisplayName": "TestGithubIntegr",
+  "Author": "",
+  "Description": "TestGithubIntegr",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{fe46bd89-d1c7-4239-82fb-3589843a3a9e}",
+  "WP8ProductID": "{b693b9b2-4c7b-4acc-9229-a850114afa6a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TestGithubIntegr",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
